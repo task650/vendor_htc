@@ -38,5 +38,4 @@ LOCAL_CERTIFICATE := platform
 include $(BUILD_PREBUILT)
 
 endif
-endif
 
