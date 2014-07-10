@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
     CIRModule \
     EasyAccessService \
     htcirlibs \
-    libtime_genoff
+    libtime_genoff \
+    QuickBoot
 
 $(call inherit-product, vendor/htc/m8/m8-vendor-blobs.mk)
