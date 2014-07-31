@@ -253,6 +253,9 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/lib/libtuning_awb_ov4688.so:/system/lib/libtuning_awb_ov4688.so \
         vendor/htc/m8/proprietary/lib/libtuning_awb_s5k5e.so:/system/lib/libtuning_awb_s5k5e.so \
         vendor/htc/m8/proprietary/lib/libtuning_awb_vd6869.so:/system/lib/libtuning_awb_vd6869.so \
+        vendor/htc/m8/proprietary/vendor/lib/soundfx/libqcbassboost.so:/system/vendor/lib/soundfx/libqcbassboost.so \
+        vendor/htc/m8/proprietary/vendor/lib/soundfx/libqcreverb.so:/system/vendor/lib/soundfx/libqcreverb.so \
+        vendor/htc/m8/proprietary/vendor/lib/soundfx/libqcvirt.so:/system/vendor/lib/soundfx/libqcvirt.so \
         vendor/htc/m8/proprietary/vendor/firmware/keymaster.b00:/system/vendor/firmware/keymaster.b00 \
         vendor/htc/m8/proprietary/vendor/firmware/keymaster.b01:/system/vendor/firmware/keymaster.b01 \
         vendor/htc/m8/proprietary/vendor/firmware/keymaster.b02:/system/vendor/firmware/keymaster.b02 \
